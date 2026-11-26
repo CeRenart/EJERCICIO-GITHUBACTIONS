@@ -1,0 +1,9 @@
+{
+  "fecha": "2026-11-26",
+  "ventas": [
+    {"id": 1, "producto": "Licencia Cloud", "importe": 1200},
+    {"id": 2, "producto": "Soporte IA", "importe": 850}
+  ]
+}
+
+
